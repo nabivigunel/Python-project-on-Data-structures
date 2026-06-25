@@ -1,4 +1,4 @@
-This is my first independent Python project focused on data structures and fundamental programming concepts.
+This is my first independent Python projects focused on data structures and fundamental programming concepts.
 
 In this project, I practiced working with different data types, including integers, floats, and complex numbers. I also completed exercises involving strings, string indexing, the join() function, lists, tuples, dictionaries, and sets.
 
