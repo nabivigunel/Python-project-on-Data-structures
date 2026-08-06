@@ -1,0 +1,27 @@
+# Instacart Data Analysis Project
+
+Project Overview
+This project explores the Instacart Online Grocery Shopping Dataset using Python and Pandas.
+
+## Objectives
+- Analyze customer shopping behavior
+- Identify the most popular products
+- Explore reorder patterns
+- Analyze shopping by hour and day
+- Calculate reorder proportions
+
+### Tools
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+### Files
+- Instacart_Project.ipynb
+- README.md
+
+### Key Findings
+- Most orders are placed during the daytime.
+- Popular products are reordered frequently.
+- Most customers purchase a relatively small number of items per order.
+- Reorders represent a significant portion of customer purchases.
